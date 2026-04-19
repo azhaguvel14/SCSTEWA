@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bank of Baroda inspired: deep orange + navy blue -->
+    <color name="aibob_orange">#E65100</color>
+    <color name="aibob_orange_dark">#AC1900</color>
+    <color name="aibob_blue">#1A237E</color>
+    <color name="aibob_blue_dark">#0D1257</color>
+    <color name="aibob_accent">#FFC107</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+    <color name="background_light">#FAFAFA</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

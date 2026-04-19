@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AIBOBSCSTEWA</string>
+    <string name="app_full_name">All India Bank of Baroda SC &amp; ST Employees\' Welfare Association</string>
+    <string name="app_tagline">Unity · Equality · Welfare</string>
+    <string name="app_version_label">Version 1.0.0</string>
+    <string name="website_url">https://aibobscstewa.com</string>
+
+    <!-- Drawer -->
+    <string name="nav_open">Open navigation</string>
+    <string name="nav_close">Close navigation</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="menu_group_about">About</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_objectives">Our Objectives</string>
+    <string name="menu_reservation">Reservation Policy</string>
+
+    <string name="menu_group_org">Organisation</string>
+    <string name="menu_committee">Central Committee</string>
+    <string name="menu_office_bearers">Office Bearers</string>
+
+    <string name="menu_group_updates">Updates</string>
+    <string name="menu_circulars">Circulars</string>
+    <string name="menu_notices">Notices</string>
+    <string name="menu_news">News</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_gallery">Photo Gallery</string>
+    <string name="menu_downloads">Downloads</string>
+
+    <string name="menu_group_more">More</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_share">Share App</string>
+    <string name="menu_about_app">About App</string>
+
+    <!-- Offline -->
+    <string name="offline_title">No Internet Connection</string>
+    <string name="offline_message">Please check your connection and try again to view the latest circulars, notices and news from AIBOBSCSTEWA.</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="still_offline">Still offline — check your connection</string>
+
+    <!-- Downloads -->
+    <string name="downloading">Downloading from AIBOBSCSTEWA</string>
+    <string name="download_started">Downloading: %1$s</string>
+    <string name="download_failed">Download failed</string>
+    <string name="cant_open_link">Unable to open link</string>
+
+    <!-- Share -->
+    <string name="share_subject">AIBOBSCSTEWA Android App</string>
+    <string name="share_text">Stay updated with circulars, notices and news from the All India Bank of Baroda SC &amp; ST Employees\' Welfare Association. Visit https://aibobscstewa.com</string>
+    <string name="share_via">Share AIBOBSCSTEWA app via</string>
+
+    <!-- About -->
+    <string name="about_app">About App</string>
+    <string name="about_website_label">Official Website</string>
+    <string name="about_body">This is the unofficial mobile companion for the AIBOBSCSTEWA website. It provides quick mobile access to circulars, notices, news, events, office bearers and welfare information published on aibobscstewa.com.\n\nAll content shown inside the app is served directly from the official AIBOBSCSTEWA website. The app does not modify, cache or republish any content.</string>
+</resources>

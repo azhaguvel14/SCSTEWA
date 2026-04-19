@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+    </group>
+
+    <item android:title="@string/menu_group_about">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info"
+                android:title="@string/menu_about" />
+            <item
+                android:id="@+id/nav_objectives"
+                android:icon="@drawable/ic_flag"
+                android:title="@string/menu_objectives" />
+            <item
+                android:id="@+id/nav_reservation"
+                android:icon="@drawable/ic_privacy"
+                android:title="@string/menu_reservation" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_group_org">
+        <menu>
+            <item
+                android:id="@+id/nav_committee"
+                android:icon="@drawable/ic_group"
+                android:title="@string/menu_committee" />
+            <item
+                android:id="@+id/nav_office_bearers"
+                android:icon="@drawable/ic_person"
+                android:title="@string/menu_office_bearers" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_group_updates">
+        <menu>
+            <item
+                android:id="@+id/nav_circulars"
+                android:icon="@drawable/ic_document"
+                android:title="@string/menu_circulars" />
+            <item
+                android:id="@+id/nav_notices"
+                android:icon="@drawable/ic_news"
+                android:title="@string/menu_notices" />
+            <item
+                android:id="@+id/nav_news"
+                android:icon="@drawable/ic_news"
+                android:title="@string/menu_news" />
+            <item
+                android:id="@+id/nav_events"
+                android:icon="@drawable/ic_star"
+                android:title="@string/menu_events" />
+            <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/ic_book"
+                android:title="@string/menu_gallery" />
+            <item
+                android:id="@+id/nav_downloads"
+                android:icon="@drawable/ic_briefcase"
+                android:title="@string/menu_downloads" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_group_more">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_handshake"
+                android:title="@string/menu_contact" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_about_app"
+                android:icon="@drawable/ic_info"
+                android:title="@string/menu_about_app" />
+        </menu>
+    </item>
+
+</menu>
